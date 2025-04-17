@@ -1,0 +1,23 @@
+body{
+	background:#2CD330;
+	text-align:centre;
+	display:100ch;
+	flex-direction:column;
+	justify-content:centre;
+}
+img{
+	max-width:75%;
+	height:100%;
+	height:auto;
+}
+u1{
+	list-style-type:none;
+}
+li{
+	background:#54F358;
+	padding:10px;
+	margin:10px 0;
+}
+li:haver{
+	background:#96F299;
+}
